@@ -14,7 +14,7 @@ The Alien War Ship has sent out 10 Mini Fighters to attack your fighters! You ne
 
 1. You should now have received information from the spy that will give you the y-coordinates of the Mini Fighters. The example below would shoot down ***one*** of the Mini Fighters. ***The x-coordinate is locked at coordinate 45***.
 
-```http://REPLACE_WITH_IP:3000/fighters/45/y-coordinate_goes_here/Your_squad_name_goes_here(e.g yellow)/Your_microservice_name_goes_here(e.g Java2Fighter)```. **The Mini Fighters will get hit by HTTP GET Request bullets!**
+```http://140.86.13.62:3000/fighters/45/y-coordinate_goes_here/Your_squad_name_goes_here(e.g yellow)/Your_microservice_name_goes_here(e.g Java2Fighter)```. **The Mini Fighters will get hit by HTTP GET Request bullets!**
 
 3. Deploy a new version of your microservice by pushing the edited code to the Git repository in the same way as for your first deployment. If you need a reminder on how to do that, check the instructions for the [first mission](deploy.md)
 
@@ -22,6 +22,6 @@ The Alien War Ship has sent out 10 Mini Fighters to attack your fighters! You ne
 
 4. If you feel that your microservice is not behaving correctly or might not have been deployed correctly, have a look at the logs as described [here](../logs.md). If you are using the Continuous Integration and Deployment strategy, explore the status of your build in Developer Cloud as described [here](../devcs.md)
 
-### Next: REPLACE_WITH_NEXT ###
+### Next: Fifth Mission ###
 
-REPLACE_WITH_DESC
+Excellent! Now it is time to hack their database and destroy the Reactor Core! [Click here](database.md) to continue!

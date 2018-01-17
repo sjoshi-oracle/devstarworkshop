@@ -2,7 +2,7 @@
 
 1. Now it is time to access your development environment. Right click on below 'Developer Workspace' button and open it in a new tab, to access your environment! 
 
-[![dev](codenvy-contribute.svg)](http://OCCS_IP/dashboard/#/ide/che/Yellow)
+[![dev](codenvy-contribute.svg)](http://140.86.13.62/dashboard/#/ide/che/Yellow)
 
 You should now have access to something similair as below, make sure that your project in the Project Explorer matches the color of your squad.
 
@@ -18,11 +18,11 @@ It is now time to select your weapon of choice.
 
 | Weapon        | Password     | Git Clone Command  |
 | ------------- |-------------| -----|
-| Node.js 1      | Handed out | ``` git clone https://lisa.jones@REPLACENode1.git Yellow/Node1 ``` |
-| Java SE 1     | Handed out      |   ``` git clone https://lisa.jones@REPLACEJava1.git Yellow/Java1 ``` |
-| Node.js 2    | Handed out | ``` git clone https://lisa.jones@REPLACENode2.git Yellow/Node2 ``` |
-| Java SE 2    | Handed out      |   ``` git clone https://lisa.jones@REPLACEJava2.git Yellow/Java2 ``` |
-| PHP | Handed out      |  ``` git clone https://lisa.jones@REPLACEPHP.git Yellow/PHP ``` |
+| Node.js 1      | Handed out | ``` git clone https://lisa.jones@developer.em2.oraclecloud.com/developer05189-gse00000429/s/developer05189-gse00000429_dev-star-yellow_8130/scm/Node1.git Yellow/Node1 ``` |
+| Java SE 1     | Handed out      |   ``` git clone https://lisa.jones@developer.em2.oraclecloud.com/developer05189-gse00000429/s/developer05189-gse00000429_dev-star-yellow_8130/scm/Java1.git Yellow/Java1 ``` |
+| Node.js 2    | Handed out | ``` git clone https://lisa.jones@developer.em2.oraclecloud.com/developer05189-gse00000429/s/developer05189-gse00000429_dev-star-yellow_8130/scm/Node2.git Yellow/Node2 ``` |
+| Java SE 2    | Handed out      |   ``` git clone https://lisa.jones@developer.em2.oraclecloud.com/developer05189-gse00000429/s/developer05189-gse00000429_dev-star-yellow_8130/scm/Java2.git Yellow/Java2 ``` |
+| PHP | Handed out      |  ``` git clone https://lisa.jones@developer.em2.oraclecloud.com/developer05189-gse00000429/s/developer05189-gse00000429_dev-star-yellow_8130/scm/PHP.git Yellow/PHP ``` |
 
 2. Copy the preferred Weapon's Git Clone Command from above. Discuss with your squad members to make sure you are not using the same one! 
 
